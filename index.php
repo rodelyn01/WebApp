@@ -9,5 +9,6 @@
     <h1>Hello, World!</h1>
     <p>This is my website running from Azure</p>
     <button type="button">Request Button</button>
+    <a href="google.com">Link to new page</a>
 </body>
 </html>
