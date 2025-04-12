@@ -8,9 +8,9 @@
 <body>
     <h1>Hello, World!</h1>
     <p>This is my website running from Azure</p>
-    <form action="start.php" method="post">
+    <form action="" method="post">
         <button type="button">Request Button</button>
     </form>
-    <a href="google.com">Link to new page</a>
+    <a href="#">Link to new page</a>
 </body>
 </html>
