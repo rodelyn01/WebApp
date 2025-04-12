@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello, World!</h1>
+    <p>This is my website running from Azure</p>
 </body>
 </html>
